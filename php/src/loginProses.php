@@ -13,7 +13,7 @@ $cek=mysqli_num_rows($result);
 if ($cek) {
 	header("Location: pageHome.html");
 } else {
-	header("Location: loginPage.php?error=password_salah");
+	header("Location: loginPage.html?error=password_salah");
 }
 ?>
 
