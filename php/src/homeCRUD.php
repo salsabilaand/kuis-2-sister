@@ -38,8 +38,8 @@
 						</a>
 					</li>
 					<li>
-						<a href="loginPage.html" class="s-sidebar_nav-link">
-							<img src="logout.png" class="icon">  Logout
+						<a href="index.html" class="s-sidebar_nav-link">
+							<img src="logout.png" class="icon">  Kembali
 						</a>
 					</li>
 				</ul>
