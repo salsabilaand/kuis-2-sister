@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   app:
-    image: hidayatinc/kuis2
+    image: 1931710012/kuis-2-sister
     container_name: php-apache
     depends_on:
       - db
